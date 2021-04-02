@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Uni\Spring 2020\CS II\Project\Pacman\Pacman\BFS.h(74): warning C4715: 'bfs': not all control paths return a value
+E:\Uni\Spring 2020\CS II\Project\Pacman\Pacman\BFS2.h(135): warning C4715: 'bfsv2': not all control paths return a value
+E:\Uni\Spring 2020\CS II\Project\Pacman\Pacman\BFS4.h(86): warning C4715: 'bfsv4': not all control paths return a value
+E:\Uni\Spring 2020\CS II\Project\Pacman\Pacman\BFS3.h(141): warning C4715: 'bfsv3': not all control paths return a value
+  Pacman.vcxproj -> E:\Uni\Spring 2020\CS II\Project\Pacman\Debug\Pacman.exe
